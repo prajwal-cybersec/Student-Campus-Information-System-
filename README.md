@@ -4,15 +4,15 @@ Demonstrate a complete Python application for the Smart Campus Information Syste
 
 The final program should demonstrate the working of all components including:
 
-*Student registration and grade evaluation  Course enrollment management
+* Student registration and grade evaluation  Course enrollment management
 
-*Student record storage and management  Searching and sorting student data
+* Student record storage and management  Searching and sorting student data
 
-*Fee calculation using functions  File-based academic record management 
+* Fee calculation using functions  File-based academic record management 
 
-*Directory scanning with exception handling
+* Directory scanning with exception handling
 
-*Student performance analytics using NumPy, Pandas, and Matplotlib 
+* Student performance analytics using NumPy, Pandas, and Matplotlib 
 
 # Application – Smart Campus Information System:
 
