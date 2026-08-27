@@ -18,7 +18,10 @@ The final program should demonstrate the working of all components including:
 
 * Directory scanning with exception handling
 
-* Student performance analytics using NumPy, Pandas, and Matplotlib 
+* Student performance analytics using NumPy, Pandas, and Matplotlib
+
+* <img width="307" height="578" alt="image" src="https://github.com/user-attachments/assets/665d594e-0a86-4295-927a-5b737cedd33c" />
+
 
 # Application – Smart Campus Information System:
 
