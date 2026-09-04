@@ -32,6 +32,7 @@ To improve efficiency and accuracy, the institution intends to implement a basic
 The Smart Campus Information System will be developed gradually through Python laboratory experiments. Each experiment focuses on implementing a specific functional module, and together these modules form a complete integrated application. The final system will consist of several modules such as Student Registration, Course Enrollment Management, Student Records Management, Search and Sorting, Fee Calculation, File Management, Directory Scanning, and Performance Analytics, all integrated through a Main System Application Dashboard. 
 
 # output:
+<p align="center">
 
 <img width="926" height="458" alt="image" src="https://github.com/user-attachments/assets/e44226e9-3c0e-49d6-884c-48acdcc7ae75" />
 
@@ -56,6 +57,8 @@ The Smart Campus Information System will be developed gradually through Python l
 <img width="462" height="457" alt="image" src="https://github.com/user-attachments/assets/6661f1cd-eca6-46fb-88f9-8ba3762313ee" />
 
 <img width="1082" height="450" alt="image" src="https://github.com/user-attachments/assets/c86e4f8f-74af-4407-a65b-2ec6e2d077f3" />
+
+</p>
 
 
 
